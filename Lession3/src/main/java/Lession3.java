@@ -161,9 +161,6 @@ public class Lession3 {
             if (a == b || a == c || c == a) {
                 System.out.println("Hãy nhập 3 số khác nhau ");
             }
-
-
-
         }
 
 
