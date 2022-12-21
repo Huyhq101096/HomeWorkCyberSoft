@@ -1,0 +1,36 @@
+
+W
+java:S2184"BCast one of the operands of this addition operation to a "double".(„†ùq
+U
+java:S2184"@Cast one of the operands of this integer division to a "double".(„†ùq
+U
+java:S2184"@Cast one of the operands of this integer division to a "double".(º¾g
+V
+java:S2184 "@Cast one of the operands of this integer division to a "double".(±öâá
+X
+java:S2184%"BCast one of the operands of this addition operation to a "double".(ãù…Ş
+V
+java:S2184%"@Cast one of the operands of this integer division to a "double".(ãù…Ş
+V
+java:S2184'"@Cast one of the operands of this integer division to a "double".(é·Í©
+V
+java:S2184)"@Cast one of the operands of this integer division to a "double".(°Ææ™
+X
+java:S2184."BCast one of the operands of this addition operation to a "double".(·ÒïŒ
+V
+java:S2184."@Cast one of the operands of this integer division to a "double".(·ÒïŒ
+[
+java:S21840"@Cast one of the operands of this integer division to a "double".(â‰ÖÒûÿÿÿÿ
+[
+java:S21842"@Cast one of the operands of this integer division to a "double".(åÅ›…şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¸‹Ñşÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(…Óùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ê¾›ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ— •
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÚìãùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÖŠÇ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ş†Æú
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ã¶¢úøÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÍŒ•©ûÿÿÿÿ
